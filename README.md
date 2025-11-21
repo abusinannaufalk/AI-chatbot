@@ -33,8 +33,8 @@ This chatbot uses OpenAI’s GPT model to respond to user queries in real-time. 
 ```
 ai-chatbot-gpt/
 │── src/
-│   ├── app.py
 │   ├── chatbot.py
+│   ├──output.png
 │── config/
 │── README.md
 │── requirements.txt
